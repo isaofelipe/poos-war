@@ -9,6 +9,6 @@ package pacote1;
  *
  * @author Isao Felipe Morigaki
  */
-public class Orc {
+public class Orc extends Monstro{
     
 }

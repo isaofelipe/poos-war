@@ -9,6 +9,6 @@ package pacote1;
  *
  * @author Isao Felipe Morigaki
  */
-public class Troll {
+public class Troll extends Monstro{
     
 }

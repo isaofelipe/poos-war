@@ -9,8 +9,9 @@ package pacote1;
  *
  * @author Isao Felipe Morigaki
  */
-public class Monstro {
-    private int expGive;
+public class Monstro extends Personagem{
+    protected int expGive;
+    protected int level;
 
     public Monstro() {
     }

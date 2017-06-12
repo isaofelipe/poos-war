@@ -3,12 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/UVV/P3%20-%20PROGRAMAÇÃO%20ORIENTADA%20A%20OBJETOS/TRABALHO%202/POO'S%20WAR/src/pacote1/Heroi.java</file>
-            <file>file:/C:/UVV/P3%20-%20PROGRAMAÇÃO%20ORIENTADA%20A%20OBJETOS/TRABALHO%202/POO'S%20WAR/src/pacote1/Mago.java</file>
-            <file>file:/C:/UVV/P3%20-%20PROGRAMAÇÃO%20ORIENTADA%20A%20OBJETOS/TRABALHO%202/POO'S%20WAR/src/pacote1/Personagem.java</file>
-            <file>file:/C:/UVV/P3%20-%20PROGRAMAÇÃO%20ORIENTADA%20A%20OBJETOS/TRABALHO%202/POO'S%20WAR/src/pacote1/Guerreiro.java</file>
-            <file>file:/C:/UVV/P3%20-%20PROGRAMAÇÃO%20ORIENTADA%20A%20OBJETOS/TRABALHO%202/POO'S%20WAR/src/pacote1/InOut.java</file>
-            <file>file:/C:/UVV/P3%20-%20PROGRAMAÇÃO%20ORIENTADA%20A%20OBJETOS/TRABALHO%202/POO'S%20WAR/src/pacote1/Main.java</file>
+            <file>file:/C:/UVV/P3%20-%20PROGRAMAÇÃO%20ORIENTADA%20A%20OBJETOS/poos-war/src/pacote1/Personagem.java</file>
+            <file>file:/C:/UVV/P3%20-%20PROGRAMAÇÃO%20ORIENTADA%20A%20OBJETOS/poos-war/src/pacote1/Guerreiro.java</file>
+            <file>file:/C:/UVV/P3%20-%20PROGRAMAÇÃO%20ORIENTADA%20A%20OBJETOS/poos-war/src/pacote1/Troll.java</file>
+            <file>file:/C:/UVV/P3%20-%20PROGRAMAÇÃO%20ORIENTADA%20A%20OBJETOS/poos-war/src/pacote1/Monstro.java</file>
+            <file>file:/C:/UVV/P3%20-%20PROGRAMAÇÃO%20ORIENTADA%20A%20OBJETOS/poos-war/src/pacote1/Orc.java</file>
+            <file>file:/C:/UVV/P3%20-%20PROGRAMAÇÃO%20ORIENTADA%20A%20OBJETOS/poos-war/src/pacote1/Main.java</file>
+            <file>file:/C:/UVV/P3%20-%20PROGRAMAÇÃO%20ORIENTADA%20A%20OBJETOS/poos-war/src/pacote1/Heroi.java</file>
         </group>
     </open-files>
 </project-private>
